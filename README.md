@@ -9,11 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/praveenliyan99" target="blank"><img src="https://img.shields.io/twitter/follow/praveenliyan99?logo=twitter&style=for-the-badge" alt="praveenliyan99" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Artificial Intelligent and Data Science**
 
-- 💬 Ask me about **Android, MERN**
+- 💬 Ask me about **Android, MERN, Machine Learning**
 
-- 📫 How to reach me **praveenliyanage1@gmail.com**
+- 📫 How to reach me **praveenliyanageprof01@gmail.com**
 
 - ⚡ Fun fact **I am creative**
 
