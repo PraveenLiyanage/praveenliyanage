@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Praveen Liyanage</h1>
-<h3 align="center">An Undergratuate student studying 💻 Software Development and 📱 Android Application Development.</h3>
+<h3 align="center">An Undergratuate student studying 💻 Software Development and 🖥️ Artificial intelligence Research.</h3>
 <img align="center" alt="Coding" width="500" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveenliyanage&label=Profile%20views&color=0e75b6&style=flat" alt="praveenliyanage" /> </p>
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligent and Data Science**
 
-- 💬 Ask me about **Android, MERN, Machine Learning**
+- 💬 Ask me about **Android, MERN, Machine Learning, NLP, Jupyter**
 
 - 📫 How to reach me **praveenliyanageprof01@gmail.com**
 
