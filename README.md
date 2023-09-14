@@ -1,7 +1,8 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Praveen Liyanage</h1>
 <h3 align="center">An Undergratuate student studying 💻 Software Development and 🖥️ Artificial intelligence Research.</h3>
-<img align="center" alt="Coding" width="500" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
+<img align="left" alt="Coding" width="500" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveenliyanage&label=Profile%20views&color=0e75b6&style=flat" alt="praveenliyanage" /> </p>
 
@@ -9,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/praveenliyan99" target="blank"><img src="https://img.shields.io/twitter/follow/praveenliyan99?logo=twitter&style=for-the-badge" alt="praveenliyan99" /></a> </p>
 
-- 🌱 I’m currently learning **Artificial Intelligent and Data Science**
+- 🌱 I’m currently learning **Artificial Intelligent and Software Engineering**
 
 - 💬 Ask me about **Android, MERN, Machine Learning, NLP, Jupyter**
 
