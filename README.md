@@ -8,13 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/praveenliyan99" target="blank"><img src="https://img.shields.io/twitter/follow/praveenliyan99?logo=twitter&style=for-the-badge" alt="praveenliyan99" /></a> </p>
 
-- 🌱 I’m currently learning **Artificial Intelligent and Software Engineering**
-
-- 💬 Ask me about **Android, MERN, Machine Learning, NLP, Jupyter**
-
 - 📫 How to reach me **praveenliyanageprof01@gmail.com**
-
-- ⚡ Fun fact **I am creative**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
