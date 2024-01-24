@@ -1,7 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Praveen Liyanage</h1>
 <h3 align="center">An Undergratuate student studying 💻 Software Development and 🖥️ Artificial intelligence Research.</h3>
-<img align="center" alt="Coding" width="500" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveenliyanage&label=Profile%20views&color=0e75b6&style=flat" alt="praveenliyanage" /> </p>
 
