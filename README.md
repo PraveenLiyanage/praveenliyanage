@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Praveen Liyanage..</h1>
+<h1 align="center">Hi 👋, I'm Praveen Liyanage.</h1>
 <h3 align="center">An Undergratuate student in IT Specialized 💻 | Machine Learning Enthausist 🤖.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveenliyanage&label=Profile%20views&color=0e75b6&style=flat" alt="praveenliyanage" /> </p>
