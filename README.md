@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveenliyanage&label=Profile%20views&color=0e75b6&style=flat" alt="praveenliyanage" /> </p>
 
-<p align="justify"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=praveenliyanage" alt="praveenliyanage" /></a> </p>
+![](https://github-profile-trophy.vercel.app/?username=praveenliyanage&theme=chalk&no-frame=false&no-bg=false&margin-w=4)
 
 **How to reach me** **praveenliyanageprof01@gmail.com**
 
@@ -15,10 +15,9 @@
 <a href="https://www.instagram.com/_amba55ador_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_amba55ador_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@praveen.liyanage/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@praveen.liyanage" height="30" width="40" /></a>
 </p>
-<p><img align="left" bgcolor="black" src="https://github-readme-stats.vercel.app/api/top-langs?username=praveenliyanage&show_icons=true&locale=en&layout=compact" alt="praveenliyanage" /></p>
-<p>
-</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=praveenliyanage&show_icons=true&locale=en" alt="praveenliyanage" /></p>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=praveenliyanage&" alt="praveenliyanage" /></p>
+![](https://github-readme-stats.vercel.app/api?username=praveenliyanage&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=praveenliyanage&theme=ayu-mirage&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=praveenliyanage&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
