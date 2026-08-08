@@ -10,9 +10,6 @@ Building scalable, production-focused software with Flutter, .NET, SQL Server, a
   <a href="https://www.linkedin.com/in/praveendliyanage">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://x.com/PraveenLiyan8">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-  </a>
   <a href="https://www.instagram.com/_dinethliyanage_/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
@@ -25,70 +22,119 @@ Building scalable, production-focused software with Flutter, .NET, SQL Server, a
 
 </div>
 
-#About
+<h2> About Me</h2>
 
-Software Engineer focused on enterprise ERP systems, full-stack application development, responsive Flutter experiences, backend APIs, and database-driven business workflows.
+Software Engineer & Full-Stack Developer focused on building reliable, scalable, and user-centered systems for real-world business operations.
 
-Frontend: Flutter, Dart, GetX, React
+Enterprise Systems: ERP platforms, workflow automation, RBAC, reporting, payments, attendance, payroll, and document management
 
-Backend: C#, .NET, ASP.NET Core, REST APIs, Flask
+Application Engineering: Responsive Flutter applications for Web, Mobile, Tablet, and PWA
 
-Database: Microsoft SQL Server, T-SQL, Stored Procedures
+Backend Engineering: ASP.NET Core, C#, REST APIs, layered application architecture
 
-AI / ML: Python, TensorFlow, PyTorch, Keras, Scikit-learn
+Data Engineering: Microsoft SQL Server, T-SQL, Stored Procedures, transactional business logic
 
-##Tech Stack
+Applied AI/ML: Python-based machine learning, analytics, and intelligent application features
 
-<div align="center">
+<h2> Tech Stack</h2>
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+Application Development
+
+<p>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 <img src="https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+</p>
 
-<br/>
+</td>
+<td width="50%" valign="top">
 
+Backend & APIs
+
+<p>
 <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=swagger&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+</p>
 
-<br/>
+</td>
+</tr>
 
+<tr>
+<td width="50%" valign="top">
+
+Database & Data Layer
+
+<p>
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 <img src="https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 <img src="https://img.shields.io/badge/Stored_Procedures-1F6FEB?style=for-the-badge&logo=databricks&logoColor=white" />
+</p>
 
-<br/>
+</td>
+<td width="50%" valign="top">
 
+AI / Machine Learning
+
+<p>
 <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+</p>
 
-<br/>
+</td>
+</tr>
 
+<tr>
+<td colspan="2" valign="top">
+
+Development & Deployment
+
+<p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=000000" />
+<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+</p>
 
-</div>
+</td>
+</tr>
+</table>
 
-##Featured Work
+<h2> Featured Work</h2>
 
-EazyKare Pro - Healthcare ERP Flutter ASP.NET Core SQL Server REST API
+EazyKare Pro
 
-Cambridge International ERP - School Management Platform Flutter Web GetX ASP.NET Core SQL Server
+Healthcare ERP - Scalable operational platform for healthcare management workflows.Flutter · ASP.NET Core · SQL Server · REST API
 
-Rashmika International ERP - Visa & Language School Management Platform Flutter ASP.NET Core SQL Server RBAC
+Cambridge International ERP
 
-##GitHub Activity
+School Management Platform - Student administration, attendance, documents, payments, reporting, and staff workflows.Flutter Web · GetX · ASP.NET Core · SQL Server
+
+Rashmika International ERP
+
+Visa & Language School Management Platform - Student, visa, document, attendance, payment, invoice, and permission workflows.Flutter · ASP.NET Core · SQL Server · RBAC
+
+<h2> GitHub Activity</h2>
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=praveenliyanage&theme=react&hide_border=true" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=praveenliyanage&theme=github-compact&hide_border=true&area=true" width="100%" alt="Praveen Liyanage Contribution Graph"/>
 
 </div>
 
@@ -96,6 +142,6 @@ Rashmika International ERP - Visa & Language School Management Platform Flutter 
 
 ENGINEER · BUILD · OPTIMIZE · SCALE
 
-<sub>Software engineered for real-world operations.</sub>
+<sub>Engineering scalable software for real-world operations.</sub>
 
 </div>
