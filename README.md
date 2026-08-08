@@ -102,20 +102,6 @@ Development & Deployment
 </tr>
 </table>
 
-<h2> Featured Work</h2>
-
-EazyKare Pro
-
-Healthcare ERP - Scalable operational platform for healthcare management workflows.Flutter · ASP.NET Core · SQL Server · REST API
-
-Cambridge International ERP
-
-School Management Platform - Student administration, attendance, documents, payments, reporting, and staff workflows.Flutter Web · GetX · ASP.NET Core · SQL Server
-
-Rashmika International ERP
-
-Visa & Language School Management Platform - Student, visa, document, attendance, payment, invoice, and permission workflows.Flutter · ASP.NET Core · SQL Server · RBAC
-
 <h2> GitHub Activity</h2>
 
 <div align="center">
@@ -124,7 +110,7 @@ Visa & Language School Management Platform - Student, visa, document, attendance
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=praveenliyanage&theme=github-compact&hide_border=true&area=true" width="100%" alt="Praveen Liyanage Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=praveenliyanage&theme=github-compact&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
 
 </div>
 
