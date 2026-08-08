@@ -24,7 +24,7 @@ Building scalable, production-focused software with Flutter, .NET, SQL Server, a
 
 <h2> About Me</h2>
 
-I’m a **Software Engineer & Full-Stack Developer** passionate about crafting **reliable, scalable, and user-centered digital systems** that solve real-world business problems. My work spans **enterprise ERP platforms, responsive Flutter applications, ASP.NET Core APIs, and SQL Server–driven architectures**, with hands-on experience in **workflow automation, RBAC, reporting, payments, attendance, payroll, and document management**. Alongside full-stack engineering, I also apply **Python, Machine Learning, and data analytics** to build smarter, more intelligent software experiences.
+I’m a **Software Engineer and Full-Stack Developer** with experience building **modern web, mobile, and enterprise applications** across the complete software development lifecycle. My work spans **cross-platform application development, backend engineering, database-driven systems, and applied AI/ML**, using technologies such as `Flutter`, `Dart`, `React`, `ASP.NET Core`, `C#`, `Microsoft SQL Server`, and `Python`. I enjoy transforming **complex business and technical requirements** into clean, scalable, and maintainable solutions, with a strong focus on **software architecture, REST API design, database engineering, responsive UI/UX, performance, and production readiness**. I also continuously explore **AI-driven solutions, automation, data science, and modern engineering practices** to create software that is **technically robust, scalable, and genuinely useful**.
 
 <h2> Tech Stack</h2>
 
