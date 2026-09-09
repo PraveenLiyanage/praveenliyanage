@@ -110,7 +110,7 @@ Development & Deployment
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=praveenliyanage&theme=github-compact&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=praveenliyanage&theme=github-compact&hide_border=true&area=true" width="100%" alt="Contribution Graph"/> -->
 
 </div>
 
