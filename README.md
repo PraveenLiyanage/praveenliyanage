@@ -102,11 +102,11 @@ Development & Deployment
 </tr>
 </table>
 
-<h2> GitHub Activity</h2>
+<!-- <h2> GitHub Activity</h2>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=praveenliyanage&theme=react&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=praveenliyanage&theme=react&hide_border=true" alt="GitHub Streak"/> -->
 
 <br/><br/>
 
